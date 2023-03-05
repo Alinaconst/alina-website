@@ -26,7 +26,7 @@ sections:
       items:
         - title: Technical Recruiter (AI & ML)
           company: Apple
-          company_url: 'https://apple.com'
+          # company_url: 'https://apple.com'
           # company_logo: org-gc
           location: London, United Kingdom
           date_start: '2020-02-01'
@@ -43,7 +43,7 @@ sections:
 
         - title: Technical Recruiter
           company: Education First
-          company_url: ''
+          # company_url: ''
           # company_logo: org-x
           location: London, United Kingdom
           date_start: '2018-07-01'
@@ -76,6 +76,70 @@ sections:
           description: |2-
             * Technical Sourcer for SWE and SRE roles across Europe (Zürich, London)
             * Participated to international hiring events & career fairs
+
+    design:
+      columns: '2'
+
+
+  - block: experience
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: "2006/02/01"
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: MSc International Humna Resource Management
+          company: Royal Holloway, University of London
+          # company_url: 'https://apple.com'
+          # company_logo: org-gc
+          location: Surrey, United Kingdom
+          date_start: '2012-01-01'
+          date_end: '2013-01-01'
+          description: |2-
+
+        - title: MA Economics
+          company: Economic Studies University
+          # company_url: 'https://apple.com'
+          # company_logo: org-gc
+          location: Bucharest, Romania
+          date_start: '2010-02-01'
+          date_end: '2012-02-01'
+          description: |2-
+
+        - title: BSc Management (Erasmus Scholarship)
+          company: Bifröst University
+          # company_url: 'https://apple.com'
+          # company_logo: org-gc
+          location: Iceland
+          date_start: '2009-02-01'
+          date_end: '2009-02-01'
+          description: |2-
+
+        - title: BSc Management
+          company: Romanian American University
+          # company_url: 'https://apple.com'
+          # company_logo: org-gc
+          location: Brasov, Romania
+          date_start: '2007-02-01'
+          date_end: '2009-02-01'
+          description: |2-
+
+        - title: "Computer Science (Baccalaureate)"
+          company: 
+          # company_url: 'https://apple.com'
+          # company_logo: org-gc
+          location: Bucharest, Romania
+          date_start: '2007-02-01'
+          date_end: '2007-02-01'
+          description: |2-
+          
+
+     
 
     design:
       columns: '2'
