@@ -80,6 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-My name is Alina Constantin, I'm a Technology Recruiter, specialised in Artificial Intelligence and Machine Learning. I have more than ten years industry experience and I worked for three out of the top five best performing American technology companies namely: ***Google***, ***Microsoft*** and ***Apple***.
+My name is Alina Constantin, I'm a Technology Recruiter, specialised in Artificial Intelligence and Machine Learning. I have more than ten years industry experience and I worked for three out of the five best performing American technology companies namely: ***Google***, ***Microsoft*** and ***Apple***.
 
 I'm deeply passionate about matching the best engineering talent with the right opportunities and I have a special interest in engaging with diverse talent. Having made more than 400 hires across Europe and China, I've learnt the importance of candidate experience, data oriented approach to recruitment, talent mapping and maintaining great relationships based on respect and trust.

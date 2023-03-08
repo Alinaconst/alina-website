@@ -138,12 +138,21 @@ sections:
   - block: contact
     id: contact
     content:
+      title: "Interests"
+      # subtitle:
+      text: "Reading, Travelling, Hiking, Photography"
+    design:
+      columns: '2'
+
+  - block: contact
+    id: contact
+    content:
       title: Contact
       # subtitle:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: alinacon@gmail.com
+      email: alicecon3211@gmail.com
       # phone: +44 (0)7890395038
       # appointment_url: 'https://calendly.com'
       # address:
