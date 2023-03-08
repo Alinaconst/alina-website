@@ -17,7 +17,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: 6
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -86,14 +86,14 @@ sections:
       title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: "2006/02/01"
+      date_format: 6
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: MSc International Humna Resource Management
+        - title: MSc International Human Resource Management
           company: Royal Holloway, University of London
           # company_url: 'https://apple.com'
           # company_logo: org-gc
@@ -103,7 +103,7 @@ sections:
           description: |2-
 
         - title: MA Economics
-          company: Economic Studies University
+          company: Academy of Economic Studies of Bucharest
           # company_url: 'https://apple.com'
           # company_logo: org-gc
           location: Bucharest, Romania
@@ -111,7 +111,7 @@ sections:
           date_end: '2012-02-01'
           description: |2-
 
-        - title: BSc Management (Erasmus Scholarship)
+        - title: Erasmus Scholarship
           company: Bifröst University
           # company_url: 'https://apple.com'
           # company_logo: org-gc
@@ -124,22 +124,12 @@ sections:
           company: Romanian American University
           # company_url: 'https://apple.com'
           # company_logo: org-gc
-          location: Brasov, Romania
+          location: Bucharest, Romania
           date_start: '2007-02-01'
           date_end: '2009-02-01'
           description: |2-
 
-        - title: "Computer Science (Baccalaureate)"
-          company: 
-          # company_url: 'https://apple.com'
-          # company_logo: org-gc
-          location: Bucharest, Romania
-          date_start: '2007-02-01'
-          date_end: '2007-02-01'
-          description: |2-
-          
-
-     
+  
 
     design:
       columns: '2'
