@@ -14,8 +14,8 @@ last_name: Constantin
 superuser: true
 
 # Role/position/tagline
-role: Technical Recruiter
-
+role: Technology Recruiter specialised in AI & ML
+ 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Apple
@@ -48,9 +48,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -69,9 +69,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume_alina_mar23.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume_alina_mar23.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,6 +80,13 @@ email: ''
 highlight_name: true
 ---
 
-My name is Alina Constantin, I'm a Technology Recruiter, specialised in Artificial Intelligence and Machine Learning. I have more than ten years industry experience and I worked for three out of the five best performing American technology companies namely: ***Google***, ***Microsoft*** and ***Apple***.
+I'm Alina, thank you for visiting my webpage👋🏻
 
-I'm deeply passionate about matching the best engineering talent with the right opportunities and I have a special interest in engaging with diverse talent. Having made more than 400 hires across Europe and China, I've learnt the importance of candidate experience, data oriented approach to recruitment, talent mapping and maintaining great relationships based on respect and trust.
+I bring over a decade of experience in the technology industry, specializing in identifying and recruiting exceptional talent in the fields of Artificial Intelligence (AI) and Machine Learning (ML). 
+
+Having worked for three of the top five technology companies in the United States – **Google**, **Microsoft**, and **Apple** – I possess a deep understanding of the competitive landscape and the skills required for success in these rapidly evolving fields.
+
+Driven by a passion for connecting exceptional engineers with transformative opportunities, I'm committed to fostering an inclusive and diverse recruitment process.
+
+I have successfull more than 400 hires spanning Europe and China. 
+Throughout this journey, I have cultivated a deep understanding of the significance of candidate experience, adopted a data-oriented approach to recruitment, conducted thorough talent mapping, and prioritized the establishment of strong relationships founded on mutual respect and trust.

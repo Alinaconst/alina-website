@@ -32,14 +32,15 @@ sections:
           date_start: '2020-02-01'
           date_end: ''
           description: |2-
-              * Scaling Software Engineering & AIML teams in Europe (Zürich, Cambridge, Barcelona, Paris, Münich). Areas covered: Health AI, Computer Vision, NLP, Machine Learning Research, Data engineering, Siri teams (translation, annotation, search, visual search)
-              * Diversity champion: highest number of diverse hires in region (60% in FY22)
-              * Represented Apple @ AI conferences: NeurIPS, ICCV, CVPR, ECCV
-              * Provided outstanding candidate experience: top ratings from candidates
-              * Successfully and consistently delivered in a fast paced, fast changing environment with aggressive targets: averaging 50+ hires per year
-              * Partnered with HR and other stakeholders to deliver great complexity of internal transfers between US (Cupertino) and Europe
-              * Developed and maintained quality talent pipelines through extensive sourcing and market mapping
-              * Provided comprehensive, data orientated advice to hiring managers
+            
+              * Drove the expansion of Artificial Intelligence and Software Engineering teams across Europe, establishing hubs in Zurich, Cambridge, Barcelona, Paris, and Munich.
+              * Achieved a regional record of 60% diverse hires in FY22/23, demonstrating a commitment to building inclusive and representative teams.
+              * Represented Apple at prestigious AI, Computer Vision and Speech conferences, including NeurIPS, ICCV, CVPR, and ECCV.
+              * Consistently delivered exceptional candidate experiences, earning top ratings from candidates, showcasing dedication to building positive relationships throughout the recruitment process.
+              * Thrived in a fast-paced, dynamic environment, consistently exceeding aggressive hiring targets, averaging over 40 hires annually, highlighting my ability to deliver results under pressure.
+              * Collaborating effectively with US peers and other stakeholders to facilitate complex internal transfers between Apple's Cupertino headquarters and European offices, demonstrating my ability to navigate complex organizational structures and achieve shared goals.
+              * Cultivated and maintained  robust talent pipelines through extensive sourcing and market mapping initiatives,ensuring a steady supply of qualified candidates to meet the evolving needs of the company.
+              * Provided data-driven, comprehensive hiring guidance to hiring managers, empowering them to make informed decisions.
 
         - title: Technical Recruiter
           company: Education First
@@ -49,10 +50,10 @@ sections:
           date_start: '2018-07-01'
           date_end: '2020-01-01'
           description: |2-
-            * Scaling Engineering teams in Europe & China (Lucerne, London, Shanghai)
-            * Interest in engineers from the Gaming and Education sector
-            * Roles covered: full-stack, front-end, back-end engineering, interns
-            * Setting up hiring strategies between Shanghai and London
+            * Instrumental in expanding Engineering teams across Europe and China, establishing offices in Lucerne, London, and Shanghai.
+            * Possessed a keen focus on recruiting engineers from the Gaming and Education sectors.
+            * Successfully filled a diverse range of roles, encompassing full-stack, front-end, back-end engineering, and internships.
+            * Strategically formulated hiring processes between Shanghai and London, fostering seamless collaboration and talent acquisition.
 
         - title: Technical Sourcing Recruiter
           company: Microsoft & Microsoft Research
@@ -62,9 +63,9 @@ sections:
           date_start: '2017-02-01'
           date_end: '2018-06-01'
           description: |2-
-            * Scaling engineering teams in Europe (London, Prague, Copenhagen, Cambridge)
-            * Diversity champion: 55% diversity rate across Europe
-            * Setting up recruitment fairs and networking events across Europe
+            * Played a pivotal role in expanding engineering teams across Europe, establishing hubs in London, Prague,Copenhagen, and Cambridge.
+            * Spearheaded diversity initiatives, achieving an impressive 55% diversity rate across Europe.
+            * Organized and executed a series of recruitment fairs and networking events throughout Europe, fostering connections with top talent.
 
         - title: Technical Sourcer
           company: Google
@@ -74,14 +75,15 @@ sections:
           date_start: '2016-04-01'
           date_end: '2017-12-01'
           description: |2-
-            * Technical Sourcer for SWE and SRE roles across Europe (Zürich, London)
-            * Participated to international hiring events & career fairs
+            * Effectively sourced technical talent for SWE and SRE roles across Europe, including Zurich, London, and Dublin.
+            * Actively participated in international hiring events and career fairs, expanding Google's reach and attracting top candidates.
 
     design:
       columns: '2'
 
 
   - block: experience
+    id: education
     content:
       title: Education
       # Date format for experience
@@ -93,6 +95,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+    
+        - title: Online Courses
+          # company: Coursera
+          # company_url: 'https://apple.com'
+          # company_logo: org-gc
+          # location: Surrey, United Kingdom
+          date_start: '2023-01-01'
+          date_end: '2023-12-31'
+          description: 
+             "Artificial Intelligence for Everyone by Andrew Ng (Coursera)\n\n
+             Artificial Intelligence: Business Strategies and Applications (Berkeley ExecEd)\n\n
+             AI and Machine Learning for Business (Udemy)"
+
         - title: MSc International Human Resource Management
           company: Royal Holloway, University of London
           # company_url: 'https://apple.com'
@@ -129,20 +144,19 @@ sections:
           date_end: '2009-02-01'
           description: |2-
 
-  
-
     design:
       columns: '2'
 
 
   - block: contact
-    id: contact
+    id: interests
     content:
       title: "Interests"
       # subtitle:
       text: "Reading, Travelling, Hiking, Photography"
     design:
       columns: '2'
+  
 
   - block: contact
     id: contact
