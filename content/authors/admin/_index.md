@@ -3,7 +3,7 @@
 title: Alina Constantin
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Alina Constantin
 
 # Full name (for SEO)
 first_name: Alina
