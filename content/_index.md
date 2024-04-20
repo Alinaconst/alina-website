@@ -17,6 +17,7 @@ sections:
   # =========== SKILLS =========
   # ============================        
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -29,6 +30,7 @@ sections:
   # =========== EXPERIENCE======
   # ============================        
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
