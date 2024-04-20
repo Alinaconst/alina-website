@@ -1,9 +1,9 @@
 ---
-title: Welcome to Hugo Blox Builder, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: How to create Blog Posts
+subtitle: A guide to creating blog posts in Markdown
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: A guide to creating blog posts in Markdown
 
 # Link this post with a project
 projects: []
@@ -15,7 +15,7 @@ date: '2020-12-13T00:00:00Z'
 lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -39,57 +39,113 @@ categories:
   - HowTo
 ---
 
-## Get Started
+# Headers
+```
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://hugoblox.com/updates/)
+Alternatively, for H1 and H2, an underline-ish style:
 
-## Crowd-funded open-source software
+Alt-H1
+======
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Alt-H2
+------
+```
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://hugoblox.com/sponsor/)
+<br/>
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+-------------
 
-## Ecosystem
+<br/>
 
-- **[Hugo Academic CLI](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+# Emphasis
+```
+Emphasis, aka italics, with *asterisks* or _underscores_.
 
-## Inspiration
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://hugoblox.com/user-stories/) of personal, project, and business sites.
+Combined emphasis with **asterisks and _underscores_**.
 
-## Features
+Strikethrough uses two tildes. ~~Scratch this.~~
+```
+<br/>
 
-- **Page builder** - Create _anything_ with [**widgets**](https://docs.hugoblox.com/page-builder/) and [**elements**](https://docs.hugoblox.com/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/content/writing-markdown-latex/), [**Jupyter**](https://docs.hugoblox.com/import/jupyter/), or [**RStudio**](https://docs.hugoblox.com/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+-------------
 
-## Themes
+<br/>
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+# Lists
+```
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
 
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/customization) for your site. Themes are fully customizable.
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-## License
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+```
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+<br/>
+
+-------------
+
+<br/>
+
+# Links
+```
+[I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+```
+
+<br/>
+
+-------------
+
+<br/>
+
+
+# Images
+```
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+```

@@ -7,7 +7,7 @@ title: Alina Constantin
 
 # Full name (for SEO)
 first_name: Alina
-last_name: Constantin2
+last_name: Constantin
 
 # Status emoji
 # status:
