@@ -23,7 +23,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '1'
+      columns: '2'
 
 
   # =========== EXPERIENCE======
@@ -40,10 +40,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Technical Recruiter (AI & ML)
-          company: Apple
+        - title: Senior Technical Recruiter (Software & AI)
+          company: Apple 
           # company_url: 'https://apple.com'
-          # company_logo: org-gc
+          company_logo: apple
           location: London, United Kingdom
           date_start: '2020-02-01'
           date_end: ''
@@ -61,7 +61,7 @@ sections:
         - title: Technical Recruiter
           company: Education First
           # company_url: ''
-          # company_logo: org-x
+          company_logo: ef
           location: London, United Kingdom
           date_start: '2018-07-01'
           date_end: '2020-01-01'
@@ -73,8 +73,8 @@ sections:
 
         - title: Technical Sourcing Recruiter
           company: Microsoft & Microsoft Research
-          company_url: ''
-          # company_logo: org-x
+          # company_url: ''
+          company_logo: windows
           location: London, United Kingdom
           date_start: '2017-02-01'
           date_end: '2018-06-01'
@@ -85,8 +85,8 @@ sections:
 
         - title: Technical Sourcer
           company: Google
-          company_url: ''
-          # company_logo: org-x
+          # company_url: ''
+          company_logo: google
           location: London, United Kingdom
           date_start: '2016-04-01'
           date_end: '2017-12-01'
