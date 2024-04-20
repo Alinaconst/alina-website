@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -18,10 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Technical Recruiter Apple Google Microsoft'
+    description: 'Technology Recruiter specialised in AI & ML. Worked at Apple Google Microsoft'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -42,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Alina Constantin.'
+    notice: '© {year} Alina Constantin'
     # license:
     #   enable: true
     #   allow_derivatives: false
@@ -67,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Alinaconst/alina-website'
     content_dir: content
     branch: main
   avatar:
@@ -93,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
