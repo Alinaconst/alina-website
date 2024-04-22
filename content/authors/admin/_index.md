@@ -148,5 +148,7 @@ Having worked for three of the top five technology companies in the United State
 
 Driven by a passion for connecting exceptional engineers with transformative opportunities, I'm committed to fostering an inclusive and diverse recruitment process.
 
-I have successfull more than 400 hires spanning Europe and China. 
+I have successfully made more than 500 hires across Europe and China. 
 Throughout this journey, I have cultivated a deep understanding of the significance of candidate experience, adopted a data-oriented approach to recruitment, conducted thorough talent mapping, and prioritized the establishment of strong relationships founded on mutual respect and trust.
+
+I am bilungual & can negotiate in Romanian and English.
