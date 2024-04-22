@@ -151,4 +151,4 @@ Driven by a passion for connecting exceptional engineers with transformative opp
 I have successfully made more than 500 hires across Europe and China. 
 Throughout this journey, I have cultivated a deep understanding of the significance of candidate experience, adopted a data-oriented approach to recruitment, conducted thorough talent mapping, and prioritized the establishment of strong relationships founded on mutual respect and trust.
 
-I am bilungual & can negotiate in Romanian and English.
+I am bi-lingual & can negotiate in Romanian and English.
