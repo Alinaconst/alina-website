@@ -153,7 +153,7 @@ sections:
   - block: experience
     id: education
     content:
-      title: Education
+      title: Education & Certifications
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: 6
@@ -163,6 +163,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
+        - title: Certifications
+          # company: Coursera
+          company_url: 'https://www.techmap.app/'
+          # company_logo: org-gc
+          # location: Surrey, United Kingdom
+          date_start: '2024'
+          date_end: '2024'
+          description: 
+             "TechMap Certification for Technical Recruiters"
     
         - title: Online Courses
           # company: Coursera
