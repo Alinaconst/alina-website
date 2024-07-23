@@ -165,7 +165,7 @@ sections:
       items:
 
         - title: Certifications
-          # company: Coursera
+          company: Techmap
           company_url: 'https://www.techmap.app/'
           # company_logo: org-gc
           # location: Surrey, United Kingdom
