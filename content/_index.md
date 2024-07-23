@@ -169,8 +169,8 @@ sections:
           company_url: 'https://www.techmap.app/'
           # company_logo: org-gc
           # location: Surrey, United Kingdom
-          date_start: '2024'
-          date_end: '2024'
+          date_start: '2024-07-01'
+          date_end: '2024-07-15'
           description: 
              "TechMap Certification for Technical Recruiters"
     
