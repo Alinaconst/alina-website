@@ -48,7 +48,7 @@ sections:
           company_logo: apple
           location: London, United Kingdom
           date_start: '2020-02-01'
-          date_end: ''
+          date_end: '2024-09-30'
           description: |2-
             
               * Drove the expansion of Artificial Intelligence and Software Engineering teams across Europe, establishing hubs in Zurich, Cambridge, Barcelona, Paris, and Munich.
