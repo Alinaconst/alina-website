@@ -73,7 +73,7 @@ sections:
             * Successfully filled a diverse range of roles, encompassing full-stack, front-end, back-end engineering, and internships.
             * Strategically formulated hiring processes between Shanghai and London, fostering seamless collaboration and talent acquisition.
 
-        - title: Technical Sourcing Recruiter
+        - title: Technical Sourcing Recruiter (Contract)
           company: Microsoft & Microsoft Research
           # company_url: ''
           company_logo: windows
@@ -85,7 +85,7 @@ sections:
             * Spearheaded diversity initiatives, achieving an impressive 55% diversity rate across Europe.
             * Organized and executed a series of recruitment fairs and networking events throughout Europe, fostering connections with top talent.
 
-        - title: Technical Sourcer
+        - title: Technical Sourcer (Contract)
           company: Google
           # company_url: ''
           company_logo: google
