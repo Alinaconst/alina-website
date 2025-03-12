@@ -43,6 +43,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Senior Technical Recruiter (Software & AI)
+          company: Mistral AI
+          # company_url: 'https://apple.com'
+          company_logo: apple
+          location: London, United Kingdom
+          date_start: '2024-12-01'
+          date_end: 'Pesent'
+          description: |2-
+
+            * Recruiter Lead in Europe (Contract)
+            * Hiring AI, LLMs, Science, Engineering and Generative AI experts across Paris, London and Palo Alto.
+
+        - title: Senior Technical Recruiter (Software & AI)
           company: Apple 
           # company_url: 'https://apple.com'
           company_logo: apple
