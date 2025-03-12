@@ -44,7 +44,7 @@ sections:
       items:
 
             
-        - title: Senior Technical Recruiter (Software & AI)
+        - title: Senior Technical Recruiter (Software, Engineering & Artifiical Intelligence)
           company: Mistral AI
           # company_url: 'https://apple.com'
           company_logo: mistral2
@@ -55,7 +55,7 @@ sections:
             * Recruiter Lead in Europe (Contract)
             * Hiring AI, LLMs, Science, Engineering and Generative AI experts across Paris, London and Palo Alto.
 
-        - title: Senior Technical Recruiter (Software & AI)
+        - title: Senior Technical Recruiter (Software & Artifiical Intelligence)
           company: Apple 
           # company_url: 'https://apple.com'
           company_logo: apple
