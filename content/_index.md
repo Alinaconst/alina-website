@@ -42,13 +42,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
+            
         - title: Senior Technical Recruiter (Software & AI)
           company: Mistral AI
           # company_url: 'https://apple.com'
-          company_logo: apple
+          company_logo: mistral2
           location: London, United Kingdom
           date_start: '2024-12-01'
-          date_end: 'Pesent'
           description: |2-
 
             * Recruiter Lead in Europe (Contract)
