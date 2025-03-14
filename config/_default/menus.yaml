@@ -16,8 +16,8 @@ main:
   - name: Education & Certifications
     url: '#education'
     weight: 40
-  - name: Interests
-    url: '#interests'
+  #- name: Interests
+  # url: '#interests'
     weight: 50
   - name: Contact
     url: '#contact'
