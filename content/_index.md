@@ -44,7 +44,7 @@ sections:
       items:
 
             
-        - title: Senior Technical Recruiter (Software, Engineering & Artifiical Intelligence)
+        - title: Senior Recruiter (Software, Engineering & Artifiical Intelligence)
           company: Mistral AI
           # company_url: 'https://apple.com'
           company_logo: mistral2
@@ -52,8 +52,9 @@ sections:
           date_start: '2024-12-01'
           description: |2-
 
-            * Recruiter Lead in Europe (Contract)
-            * Hiring AI, LLMs, Science, Engineering and Generative AI experts across Paris, London and Palo Alto.
+            * First Recruiter in London UK (Contract)
+            * Hiring AI, LLMs, Science, Engineering experts across Paris, London and Palo Alto.
+            * Mistral AI: are providing customisable AI solutions to comapnies all over the world. Mistral AI is founded by scientists from Google Deep Mind and Meta to provide open-source generative AI models to empower developers and enterprises to build the future.
 
         - title: Senior Technical Recruiter (Software & Artifiical Intelligence)
           company: Apple 
@@ -67,7 +68,7 @@ sections:
               * Drove the expansion of Artificial Intelligence and Software Engineering teams across Europe, establishing hubs in Zurich, Cambridge, Barcelona, Paris, and Munich.
               * Achieved a regional record of 60% diverse hires in FY22/23, demonstrating a commitment to building inclusive and representative teams.
               * Represented Apple at prestigious AI, Computer Vision and Speech conferences, including NeurIPS, ICCV, CVPR, and ECCV.
-              * Consistently delivered exceptional candidate experiences, earning top ratings from candidates, showcasing dedication to building positive relationships throughout the recruitment process.
+              * Engaged with C-Suite leaders in Europe and United States
               * Thrived in a fast-paced, dynamic environment, consistently exceeding aggressive hiring targets, averaging over 40 hires annually, highlighting my ability to deliver results under pressure.
               * Collaborating effectively with US peers and other stakeholders to facilitate complex internal transfers between Apple's Cupertino headquarters and European offices, demonstrating my ability to navigate complex organizational structures and achieve shared goals.
               * Cultivated and maintained  robust talent pipelines through extensive sourcing and market mapping initiatives,ensuring a steady supply of qualified candidates to meet the evolving needs of the company.
