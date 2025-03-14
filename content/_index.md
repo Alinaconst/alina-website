@@ -44,7 +44,7 @@ sections:
       items:
 
             
-        - title: Senior Recruiter (Software, Engineering & Artifiical Intelligence)
+        - title: Senior Recruiter (Software, Engineering & Artificial Intelligence)
           company: Mistral AI
           # company_url: 'https://apple.com'
           company_logo: mistral2
@@ -56,7 +56,7 @@ sections:
             * Hiring AI, LLMs, Science, Engineering experts across Paris, London and Palo Alto.
             * Mistral AI: are providing customisable AI solutions to comapnies all over the world. Mistral AI is founded by scientists from Google Deep Mind and Meta to provide open-source generative AI models to empower developers and enterprises to build the future.
 
-        - title: Senior Technical Recruiter (Software & Artifiical Intelligence)
+        - title: Senior Technical Recruiter (Software & Artificial Intelligence)
           company: Apple 
           # company_url: 'https://apple.com'
           company_logo: apple
