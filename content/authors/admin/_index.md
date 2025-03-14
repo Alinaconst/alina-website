@@ -146,9 +146,7 @@ I bring over a decade of experience in the technology industry, specializing in 
 
 Having worked for three of the top five technology companies in the United States – **Google**, **Microsoft**, and **Apple** – I possess a deep understanding of the competitive landscape and the skills required for success in these rapidly evolving fields.
 
-Driven by a passion for connecting exceptional engineers with transformative opportunities, I'm committed to fostering an inclusive and diverse recruitment process.
-
-I have successfully made more than 500 hires across Europe and China and amassed 10,000+ hours of experience hiring and coaching people around the world.
+I have successfully made more than 500 hires across Europe and US and amassed 10,000+ hours of experience hiring and coaching people around the world.
 
 Throughout this journey, I have cultivated a deep understanding of the significance of candidate experience, adopted a data-oriented approach to recruitment, conducted thorough talent mapping, and prioritized the establishment of strong relationships founded on mutual respect and trust.
 
