@@ -241,14 +241,14 @@ sections:
 
   # ======== INTERESTS =========
   # ============================    
-  - block: contact
-    id: interests
-    content:
-      title: "Interests"
+ # - block: contact
+  #  id: interests
+   # content:
+    #  title: "Interests"
       # subtitle:
-      text: "Reading, Travelling, Hiking, Photography"
-    design:
-      columns: '2'
+     # text: "Reading, Travelling, Hiking, Photography"
+    #design:
+     # columns: '2'
 
 
   # ======= RECENT POSTS =======
