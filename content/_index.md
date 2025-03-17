@@ -53,8 +53,9 @@ sections:
           description: |2-
 
             * First Recruiter in London UK (Contract)
+            * Drove the expansion of Artificial Intelligence, Machine learning, Data Engineering and Software Engineering teams across Europe
             * Hiring AI, LLMs, Science, Engineering experts across Paris, London and Palo Alto.
-            * Mistral AI: are providing customisable AI solutions to comapnies all over the world. Mistral AI is founded by scientists from Google Deep Mind and Meta to provide open-source generative AI models to empower developers and enterprises to build the future.
+            * Mistral AI are providing customisable AI solutions to comapnies all over the world. Mistral AI is founded by scientists from Google Deep Mind and Meta to provide open-source generative AI models to empower developers and enterprises to build the future.
 
         - title: Senior Technical Recruiter (Software & Artificial Intelligence)
           company: Apple 
@@ -64,7 +65,8 @@ sections:
           date_start: '2020-02-01'
           date_end: '2024-09-30'
           description: |2-
-            
+
+              * Machine Learning and Data Engineering
               * Drove the expansion of Artificial Intelligence and Software Engineering teams across Europe, establishing hubs in Zurich, Cambridge, Barcelona, Paris, and Munich.
               * Achieved a regional record of 60% diverse hires in FY22/23, demonstrating a commitment to building inclusive and representative teams.
               * Represented Apple at prestigious AI, Computer Vision and Speech conferences, including NeurIPS, ICCV, CVPR, and ECCV.
